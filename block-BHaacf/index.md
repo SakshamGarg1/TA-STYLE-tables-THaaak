@@ -11,3 +11,4 @@
 - Work on typography in detail.
 
 - Do not forget to checkout the preview video, before working on the assignment.
+x
